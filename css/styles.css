@@ -86,6 +86,7 @@ p.tony-intro{
 
 }
 
+
 .content{
     margin: 0 auto;
     width: 75%;
@@ -107,7 +108,37 @@ pun{
     color: #EE4938;
 }
 
+/*Resume*/
 
+h2.name{
+    font-family: "", sans-serif;
+    font-weight: lighter;
+    padding-bottom: .10em;
+    display: block;
+    font-size: 1.667em;
+    line-height: 1.25em;   
+    color: #3a3a3a;
+    text-align: center;
+}
+
+h3.name{
+    font-family: "", sans-serif;
+    font-weight: lighter;
+    padding-bottom: .10em;
+    display: block;
+    font-size: 1.667em;
+    line-height: 1.25em;   
+    letter-spacing: .025em;
+    text-decoration: underline;
+    color: #3a3a3a;
+}
+
+p.address{
+    text-align: center;
+    font-weight: lighter;
+    font-color: #3a3a3a;
+    font-size: .90em;
+}
 
 
 /*
