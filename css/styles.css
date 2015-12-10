@@ -30,7 +30,11 @@ ul{
     margin: 0;
     padding: 0;
     overflow: hidden;
+    text-align: center;
     
+}
+p{
+    text-align: center;
     
 }
 
@@ -62,16 +66,16 @@ a:vistied{
 }
 
 /*H*/
-h1{
+h4, h1{
     font-family: "", sans-serif;
     font-weight: lighter;
     padding-bottom: .50em;
     display: block;
     font-size: 1.667em;
     line-height: 1.25em;   
-    font-color: #3a3a3a;
+    color: #3a3a3a;
     border-bottom: 0.1em solid rgba(0,0,0,0.2);
-
+    letter-spacing: .06em;
     text-align: center;
 }
 
@@ -131,7 +135,9 @@ h3.name{
     letter-spacing: .025em;
     text-decoration: underline;
     color: #3a3a3a;
+    text-align: center;
 }
+
 
 p.address{
     text-align: center;
@@ -140,9 +146,17 @@ p.address{
     font-size: .90em;
 }
 
+p{
+    text-align: center;
+    font-weight: lighter;
+    font-color: #3a3a3a;
+    font-size: .90em;
+}
+}
 
 /*
 contact.html
+by  Alex Devero - codepen.io
 */
 
 h1.contact{
